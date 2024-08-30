@@ -1,0 +1,19 @@
+1)Polymorphism :When we have class is related to each other and an object behave differently
+
+There are 2 types of polymorphism
+i)Compile time polymorphism
+->When we call to a method at a compile time is called compile time polymorphism
+->Compile time polymorphism is nothing but Method overloading
+->Method Overloading is a same method name in a same class
+
+ii)Run time polymorphism
+->When we call to a method at a run time is called Run time polymorphism
+->Runtime polymorphism is nothing but Method overriding
+
+3)Inheritance: The process of acquiring the property from one class(parent/super/base) to another class(child/sub/derived) is called Inheritance
+->To acquire the properties we are using extends keyword
+->Inheriting the property->Parent class
+->Inherited the property->Child class
+
+2)Constructor Chaining: Constructor chaining is the process of calling one constructor from another constructor
+
